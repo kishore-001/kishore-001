@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kishore P</h1>
+d<h1 align="center">Hi 👋, I'm Kishore P</h1>
 <h3 align="center">Cybersecurity Engineer | Red Team & Blue Team Enthusiast | DevSecOps Explorer</h3>
 
 <p align="center">
@@ -11,9 +11,9 @@
 
 - 🔭 Currently building: [Security And Network System Management Suite](https://github.com/kishore-001/Server-Network-Management-Suite)  
 - 🌱 Learning: **Red Teaming**, **Blue Teaming**, **Advanced Cloud Security**  
-- 💬 Ask me about: `Red Team`, `Networking`, `OS Internals`, `Cloud Security`, `DevOps`  
+- 💬 Ask me about: `Red Team`, `Networking`, `OS Internals`, `Cloud Security`, `DevOps` ,`Blue Team` 
 - 📫 Reach me at: **kishoreedu07@gmail.com**  
-- ⚡ Fun Fact: *Trust, but verify.*
+- ⚡ *Trust, but verify.*
 
 ---
 
